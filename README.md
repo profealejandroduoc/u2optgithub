@@ -1,6 +1,6 @@
 # Uso de Git Hub
 
-Este proyecto es para usar github
+Esto lo cambie en github
 
 ## Esta línea la edite en github
 
